@@ -1,18 +1,5 @@
 const test = "test";
 alert("Привіт!")
-jhjdh
-fd
-ddd
-dggg
-ggg
-jjj
-ddd
-ttt
-yy
-u
-ccc
-uupp
-www
 ccc
 xxx
 fdc
